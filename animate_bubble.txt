@@ -1,3 +1,6 @@
+https://blog.trackduck.com/2015/06/10/15-impressive-pop-animation-effects-codepen/
+
+
 node that pops out a line and box:
 
 scss:
