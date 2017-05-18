@@ -1,5 +1,9 @@
 https://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/
-#3 and #6
+#3 and #6 swivels with circles
+
+
+circle inflate:
+https://jsfiddle.net/9wLh5bao/
 
 
 
